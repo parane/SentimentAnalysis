@@ -1,5 +1,5 @@
 # SentimentAnalysis
-Classify the sentiment of sentences from the Rotten Tomatoes dataset
+Classify the sentiment of sentences from the Rotten Tomatoes dataset.
 
 Machine Learning Assignment 
 ============================
